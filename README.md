@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Big Data, Deep Learning, AI
+- 🌱 I’m expert in Data Science, Machine Learning, Big Data, Deep Learning, AI
 - 👯 I’m looking to collaborate on any python related project
 - 💬 Ask me about python, django, flask, data science, machine learning, deep learning
 - 📫 How to reach me: use my username sachinyadav3496 on social plateforms to reach out
